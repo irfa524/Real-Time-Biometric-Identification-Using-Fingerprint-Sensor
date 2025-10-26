@@ -22,7 +22,7 @@ The project supports:
 
 ##  "Hardware Components"
 
-     "Component"                                                  "Description" 
+                                                       
 AS608 Fingerprint Sensor                     |       Captures high-resolution fingerprint images 
 USB to TTL Converter                         |       Interfaces the sensor with laptop (serial communication) 
 Jumper Wires                                 |       Used for hardware connections 
@@ -30,7 +30,7 @@ Laptop / PC                                  |       For running data processing
 
 ## "Software & Tools"
 
-    "Tool"                                   |            "Purpose"
+   
 Python (3.9.1)                               |     Main programming language 
 Google Colab / Jupyter Notebook              |     Model training and testing 
 VS Code                                      |     Code development and debugging 
@@ -65,8 +65,6 @@ pip install pyfingerprint
    The predicted name or class is displayed in real time, confirming the identity.
 
 ##  "Model Performance"
-
- "Metric"                           |     "Accuracy" 
 
 Training Accuracy                   |      99.88% 
 Validation Accuracy                 |      98.28% 
