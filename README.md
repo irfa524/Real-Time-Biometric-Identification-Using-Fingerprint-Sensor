@@ -41,6 +41,12 @@ Pillow                                       | Image input/output
 pyfingerprint                                | Sensor interfacing (for real-time capture) 
 
 ## "Installation & How to Run"
+• Open the project folder in VS Code or Jupyter Notebook.
+• Created & activated a virtual environment:
+python -m venv fingerprint
+# Activate:
+fingerprint\Scripts\activate       # Windows
+
 pip install torch torchvision
 pip install tensorflow
 pip install pillow
