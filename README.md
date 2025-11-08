@@ -1,4 +1,4 @@
-# Real-Time-Biometric-Identification-Using-Fingerprint-Sensor
+# Real-Time-Biometric-Identification-Using- AS608 Fingerprint-Sensor
 This project is a "Realtime Biometric Identification System" that integrates "hardware-based fingerprint scanning" with "deep learning (ResNet18)"for accurate and efficient user identification.  
 It demonstrates a hybrid approach combining embedded hardware (sensor interfacing) and machine learning (image classification) to recognize individuals based on their fingerprints.
 
